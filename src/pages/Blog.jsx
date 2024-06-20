@@ -1,11 +1,5 @@
-import Navbar from "../components/Navbar"
-
 function Blog() {
-  return (
-    <div>
-        <Navbar/>
-    </div>
-  )
+	return <div></div>;
 }
 
-export default Blog
+export default Blog;

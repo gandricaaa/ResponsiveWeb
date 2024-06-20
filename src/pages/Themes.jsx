@@ -1,11 +1,5 @@
-import Navbar from "../components/Navbar"
-
 function Themes() {
-  return (
-    <div>
-        <Navbar/>
-    </div>
-  )
+	return <div></div>;
 }
 
-export default Themes
+export default Themes;
